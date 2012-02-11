@@ -1,0 +1,17 @@
+{
+    "name": "twitter-bootstrap-ender"
+  , "description": "Ender bindings for Twitter's fantastic Bootstrap library"
+  , "version": "0.0.1"
+  , "homepage": "https://github.com/benekastah/twitter-bootstrap-ender"
+  , "author": "Paul Harper <benekastah@gmail.com>"
+  , "contributors": []
+  , "keywords": ["ender", "twitter", "bootstrap"]
+  , "ender": "./src/ender.js"
+  , "repository": {
+        "type": "git"
+      , "url": "https://github.com/benekastah/twitter-bootstrap-ender"
+    }
+  , "devDependencies": {
+        "ender": ">= 0.8.5"
+    }
+}
