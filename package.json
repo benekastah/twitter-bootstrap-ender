@@ -6,11 +6,13 @@
   , "author": "Paul Harper <benekastah@gmail.com>"
   , "contributors": []
   , "keywords": ["ender", "twitter", "bootstrap"]
-  , "ender": "./src/ender.js"
   , "repository": {
         "type": "git"
       , "url": "https://github.com/benekastah/twitter-bootstrap-ender"
     }
+  , "dependencies": {
+      "jquery": ">= 1.7.0"
+  }
   , "devDependencies": {
         "ender": ">= 0.8.5"
     }
